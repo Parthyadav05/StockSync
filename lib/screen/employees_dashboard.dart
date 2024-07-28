@@ -23,7 +23,7 @@ class EmployeeDashboard extends StatefulWidget {
 class _EmployeeDashboardState extends State<EmployeeDashboard> with SingleTickerProviderStateMixin {
   final FirebaseService firebaseService = FirebaseService();
   final gemini = GoogleGemini(
-    apiKey: "AIzaSyAhf64wrUm9YVOmm3XRamAfDrs1ZEIpfLE", // Replace with your actual API key
+    apiKey: "", // Replace with your actual API key
   );
   Tasks? currentTask;
   List<File> selectedImages = [];
