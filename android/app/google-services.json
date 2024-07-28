@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427398837926",
+    "project_id": "stocksync-8a03e",
+    "storage_bucket": "stocksync-8a03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427398837926:android:b2789da7f290aff4c0e667",
+        "android_client_info": {
+          "package_name": "com.example.stocksync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0VY2WQ1P1Ue7YG7lGx67vH2Li1hBG9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
